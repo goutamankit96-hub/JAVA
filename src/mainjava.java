@@ -7,5 +7,7 @@ public class mainjava {
         B s2=new B();
         s2.Show();
         s1.Show();
+        s1.sleep();
+        s1.See();
     }
 }
